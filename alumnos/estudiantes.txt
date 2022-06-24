@@ -1,0 +1,3 @@
+N:Antonella  A:Spinosa D:172198379123 DO:Argentina GE:Femenino AÑ:4to!('Matemática', 'Inglés', 'Artes', 'Geografía', 'Química')
+N:Miguel A:Vélez D:1001370345 DO:Medellin GE:Masculino AÑ:5to!('Matemática', 'Inglés', 'Educ.Física')
+N:Lucas A:Cortes D:212121321 DO:Argentina GE:Masculino AÑ:3ro!('Literatura', 'Inglés', 'Ciencias', 'Religión', 'Historia', 'Química')
